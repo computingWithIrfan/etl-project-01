@@ -1,0 +1,9 @@
+2025-01-27 00:20:33.854347 : Intializing Extracting of URLS of each audi.
+2025-01-27 00:20:34.422207 : URLS extraction completed.
+2025-01-27 00:20:34.423177 : Initializing Extracting of each audi data.
+2025-01-27 00:21:02.121411 : Data extraction completed.
+2025-01-27 00:21:02.122408 : Initializing transforming data(including new column fuel effieciency according to mileage).
+2025-01-27 00:21:02.124403 : Data transformation completed.
+2025-01-27 00:21:02.125403 : Initializing Loading of transform data.
+2025-01-27 00:21:02.127366 : Data loaded.
+2025-01-27 00:21:02.127366 : ETL Process completed.
